@@ -1,1 +1,1 @@
-A simple webpack project template
+# RxJS scroll progressbar implementation
